@@ -1,1 +1,4 @@
 .venv
+.env
+OAI_CONFIG_LIST
+./notebooks/OAI_CONFIG_LIST
